@@ -36,7 +36,7 @@ Folder Structure
 components/: Contains reusable React components such as Header and Product.
 assets/: Contains static assets like images.
 App.js: The main application file where the navigation and screens are defined.
-Dependencies
+<br>Dependencies<br>
 react-native: Core library for building the app.
 react-navigation: Library for navigating between screens.
 react-native-vector-icons: Provides icon fonts for use in the app.
