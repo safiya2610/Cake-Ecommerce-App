@@ -1,6 +1,6 @@
 # Cake-Ecommerce-App
 # React Native Cake Shop
-#Some Samples images
+
 ![ss](https://github.com/user-attachments/assets/e0227cb8-f84a-4f79-b78f-a36518600b8b)
 ![ss2](https://github.com/user-attachments/assets/a330401c-95b7-4f75-a5a6-8ca43f086273)
 ![ss3](https://github.com/user-attachments/assets/ee7e6247-bd6b-4674-a01c-1d82a0e7b60b)
