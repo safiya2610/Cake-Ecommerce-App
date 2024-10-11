@@ -2,9 +2,6 @@
 
 Welcome to the **Cake Shop**! This is a **React Native** application designed to showcase a variety of cakes, allowing users to browse, like products, and easily navigate through different sections of the app.
 
-![App Screenshot](https://github.com/user-attachments/assets/e0227cb8-f84a-4f79-b78f-a36518600b8b)
-![App Screenshot 2](https://github.com/user-attachments/assets/a330401c-95b7-4f75-a5a6-8ca43f086273)
-![App Screenshot 3](https://github.com/user-attachments/assets/ee7e6247-bd6b-4674-a01c-1d82a0e7b60b)
 
 ## Features
 
